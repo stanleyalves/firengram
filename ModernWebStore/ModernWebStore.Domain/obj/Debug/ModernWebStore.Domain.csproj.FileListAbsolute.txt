@@ -1,0 +1,1 @@
+C:\Dev\ModernWebStore\ModernWebStore.Domain\obj\Debug\ModernWebStore.Domain.csprojResolveAssemblyReference.cache
